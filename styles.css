@@ -3,4 +3,6 @@
 table,thead,tbody,th,tr,td{
 	border-collapse:collapse;
 	border:1px solid black;
+	border-spacing: 40px;
+	padding: 10px
 }
